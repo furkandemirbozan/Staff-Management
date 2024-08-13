@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B3D4D6-4D37-45E1-8F19-3B2FDCDA5703}|staffmanagament.API\\staffmanagament.API.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B3D4D6-4D37-45E1-8F19-3B2FDCDA5703}|staffmanagament.API\\staffmanagament.API.csproj|solutionrelative:staffmanagament.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createdepartmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createdepartmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\updateleavestatusdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\updateleavestatusdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\updatejobdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\updatejobdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\updateexpensestatusdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\updateexpensestatusdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\updatedepartmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\updatedepartmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\updateemployeedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\updateemployeedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\salarydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\salarydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createresumedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createresumedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createleavedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createleavedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createjobdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createjobdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createexpensedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createexpensedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createemployeedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createemployeedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createcompanydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createcompanydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\createaddressdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\createaddressdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|c:\\users\\hp\\masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.business\\fluentvalidator\\calendareventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABCB816-525C-4794-B0C7-4A6B3253EBC3}|staffmanagament.BUSINESS\\staffmanagament.BUSINESS.csproj|solutionrelative:staffmanagament.business\\fluentvalidator\\calendareventdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.API\\Program.cs",
+              "RelativeDocumentMoniker": "staffmanagament.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.API\\Program.cs",
+              "RelativeToolTip": "staffmanagament.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:16:32.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateLeaveStatusDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateLeaveStatusDTOValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\UpdateLeaveStatusDTOValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateLeaveStatusDTOValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\UpdateLeaveStatusDTOValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:15:56.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateJobDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateJobDTOValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\UpdateJobDTOValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateJobDTOValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\UpdateJobDTOValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:15:22.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateExpenseStatusDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateExpenseStatusDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\UpdateExpenseStatusDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateExpenseStatusDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\UpdateExpenseStatusDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:14:56.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateDepartmentDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateDepartmentDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\UpdateDepartmentDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateDepartmentDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\UpdateDepartmentDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:14:36.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeeDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateEmployeeDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\UpdateEmployeeDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\UpdateEmployeeDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\UpdateEmployeeDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:14:20.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalaryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\SalaryDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\SalaryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\SalaryDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\SalaryDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:14:05.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUserDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateUserDTOValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateUserDTOValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateUserDTOValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateUserDTOValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:13:30.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateResumeDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateResumeDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateResumeDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateResumeDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateResumeDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:12:54.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateLeaveDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateLeaveDTOValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateLeaveDTOValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateLeaveDTOValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateLeaveDTOValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:12:33.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateJobDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateJobDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateJobDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateJobDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateJobDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:12:18.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateExpenseDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateExpenseDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateExpenseDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateExpenseDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateExpenseDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:11:54.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEmployeeDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateEmployeeDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateEmployeeDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateEmployeeDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateEmployeeDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:11:03.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateDepartmentDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateDepartmentDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateDepartmentDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateDepartmentDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateDepartmentDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:10:40.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCompanyDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateCompanyDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateCompanyDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateCompanyDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateCompanyDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:10:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateAddressDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateAddressDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CreateAddressDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CreateAddressDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CreateAddressDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:09:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalendarEventDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CalendarEventDtoValidator.cs",
+              "RelativeDocumentMoniker": "staffmanagament.BUSINESS\\FluentValidator\\CalendarEventDtoValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Masa\u00FCst\u00FC\\project-wissen\\backend\\staffmanagement\\staffmanagament.BUSINESS\\FluentValidator\\CalendarEventDtoValidator.cs",
+              "RelativeToolTip": "staffmanagament.BUSINESS\\FluentValidator\\CalendarEventDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:08:51.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

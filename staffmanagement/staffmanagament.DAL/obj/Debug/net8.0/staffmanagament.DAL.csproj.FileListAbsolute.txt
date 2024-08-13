@@ -1,0 +1,17 @@
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\bin\Debug\net8.0\staffmanagament.DAL.deps.json
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\bin\Debug\net8.0\staffmanagament.DAL.runtimeconfig.json
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\bin\Debug\net8.0\staffmanagament.DAL.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\bin\Debug\net8.0\staffmanagament.DAL.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\bin\Debug\net8.0\staffmanagament.CORE.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\bin\Debug\net8.0\staffmanagament.CORE.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffman.06714CE8.Up2Date
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\refint\staffmanagament.DAL.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\staffmanagament.DAL.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.DAL\obj\Debug\net8.0\ref\staffmanagament.DAL.dll

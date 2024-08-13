@@ -1,0 +1,12 @@
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\bin\Debug\net8.0\staffmanagament.CORE.deps.json
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\bin\Debug\net8.0\staffmanagament.CORE.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\bin\Debug\net8.0\staffmanagament.CORE.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\staffmanagament.CORE.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\staffmanagament.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\staffmanagament.CORE.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\staffmanagament.CORE.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\staffmanagament.CORE.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\staffmanagament.CORE.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\refint\staffmanagament.CORE.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\staffmanagament.CORE.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.CORE\obj\Debug\net8.0\ref\staffmanagament.CORE.dll

@@ -1,0 +1,17 @@
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\bin\Debug\net8.0\staffmanagament.BUSINESS.deps.json
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\bin\Debug\net8.0\staffmanagament.BUSINESS.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\bin\Debug\net8.0\staffmanagament.BUSINESS.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\bin\Debug\net8.0\staffmanagament.CORE.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\bin\Debug\net8.0\staffmanagament.DAL.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\bin\Debug\net8.0\staffmanagament.CORE.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\bin\Debug\net8.0\staffmanagament.DAL.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffmanagament.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffmanagament.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffmanagament.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffmanagament.BUSINESS.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffmanagament.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffman.8D9EDFD7.Up2Date
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffmanagament.BUSINESS.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\refint\staffmanagament.BUSINESS.dll
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\staffmanagament.BUSINESS.pdb
+C:\Users\HP\Masaüstü\project-wissen\backend\staffmanagement\staffmanagament.BUSINESS\obj\Debug\net8.0\ref\staffmanagament.BUSINESS.dll
